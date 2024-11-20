@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'HelveticaNeueLT Arabic';
+    src: url('https://yourhost.com/fonts/HelveticaNeueLTArabic.woff2') format('woff2'),
+         url('https://yourhost.com/fonts/HelveticaNeueLTArabic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
